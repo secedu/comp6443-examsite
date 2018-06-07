@@ -48,7 +48,7 @@ You will be marked according to the same criteria you are marked on for a break 
 **Exam notification**
 
 - XSS Flags are in the admin cookie. Please steal. There will be a bot to retrieve your request or payload (depending on the challenge).
-- If you're unable to find the flag for a SQLi challenge, try checking table `flag` column `flag`
+- If you're unable to find the flag for a SQLi challenge, try checking table `trash` column `content`
 - LFI/Server side attack flags are in a file on the filesystem called /flag
 - If you're unable to find a flag for an IDOR challenge, try checking a user/account/post with id `9447`
 - Account/authentication flaws will be in an account called 'admin' with id = 1
