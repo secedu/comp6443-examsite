@@ -11,3 +11,6 @@ Here are some spotify playlists so you can listen to them while you work:
 kthx
 sy
 
+also thx from the entire team
+norman, abhi, nina, ceyx, carey, sketch, clonsdale, grc, glem, bugcrowd.
+
