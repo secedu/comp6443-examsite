@@ -1,10 +1,12 @@
 # General
 - Content covered will include Weeks 1 to 10
 - There is **no late penalty** for the exam, if you fail to submit before the deadline you will receive a mark of **0**
+
 ## Rules
 - Any violation, either deliberate or accidental, of these rules or of the spirit of these rules will be considered academic misconduct.
 - You are not to get any help from anyone on the exam. You should not talk to anyone else about the exam from the time you receive the full details until after the exam ends.
 - Communication and collusion is prohibited as per regular exam rules.
+
 ## Supplementary
 
 As per the course outline:
@@ -42,15 +44,26 @@ You will be marked according to the same criteria you are marked on for a break 
 1 Authentication
 
 1 Server Side
-
  
 **Exam notification**
 
 - XSS Flags are in the admin cookie. Please steal. There will be a bot to retrieve your request or payload (depending on the challenge).
-- If you're unable to find the flag for a SQLI challenge, try checking table `flag` column `flag`
+- If you're unable to find the flag for a SQLi challenge, try checking table `flag` column `flag`
 - LFI/Server side attack flags are in a file on the filesystem called /flag
 - If you're unable to find a flag for an IDOR challenge, try checking a user/account/post with id `9447`
 - Account/authentication flaws will be in an account called 'admin' with id = 1
+
+- For the auth challenge, here are two test accounts you can use:
+```
+username: guest
+password: guest
+secret_a: unsw
+```
+```
+username: azured
+password: hunter2
+secret_a: *******
+```
 
 ## Recommended Practice
 
