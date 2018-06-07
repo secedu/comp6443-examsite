@@ -8,11 +8,9 @@ Here are some spotify playlists so you can listen to them while you work:
 * [hyphy](https://open.spotify.com/user/minight/playlist/2ippMIWgPnLZ4SGdnEWbdn?si=Lcj4wk9xQByXdbvyYVc_Ng)
 * [swing](https://open.spotify.com/user/leahbrownmusic/playlist/7p0Mc4z8Kr7w43zw1rhvLj?si=lYG45VX_Rs-ITjtFgQ6Chw)
 
-kthx
-
+kthx   
 sy
 
-also thx from the entire team
-
+also thx from the entire team  
 norman, abhi, nina, ceyx, carey, sketch, clonsdale, grc, glem, bugcrowd.
 
