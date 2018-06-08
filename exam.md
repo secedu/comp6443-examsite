@@ -114,7 +114,7 @@ Revise common code patterns for Flask that introduce vulnerabilities
 
 ## Submission
 
-Details coming soon  
+Submission details in the code repo README.md
 
 # Exam 2 - Extended Break (6843 only)
 
