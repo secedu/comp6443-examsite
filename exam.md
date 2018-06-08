@@ -1,3 +1,15 @@
+# Updates
+
+- Two page can look the same with different vulnerabilities (gluetrash)
+- Do we need to write impact and remediation in the report? 
+  - Because it is an exam your report can be shorter than usual, but if you have the time write something for those sections
+- “Does report have to include recon like break 1?”
+  - You can write a little section about what you did to find the domains, but don’t go overboard and stress
+- Do try to submit your report only once, that makes it easier for us :)
+- “Any loss of marks by getting the flag by an unintended/worse than expected solution?”
+  - No, as long as you can provide evidence that you got the flag via your payload then that’s fine (screenshots help if we cant reproduce it)
+- Write up as much as you can - we will try and give out partial marks where we can
+
 # General
 - Content covered will include Weeks 1 to 10
 - There is **no late penalty** for the exam, if you fail to submit before the deadline you will receive a mark of **0**
