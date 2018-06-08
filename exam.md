@@ -120,7 +120,8 @@ Submission details in the code repo README.md
 
 The extended Break exam will follow the same structure as the regular break exam except with different classes of vulnerabilities.
  
-**The vulnerability classes** **(tentatively) examined will be the following:**
+**The vulnerability classes examined will be the following:**
+
 XSS
 
 CSRF
@@ -136,6 +137,10 @@ Sessions & Authentication
 **Additional Notes**
 
 You may be required to chain vulnerabilities together to acquire the flag.
+
+**Exam notification**
+
+There are only 4 hosts
 
 ## Submission
 
