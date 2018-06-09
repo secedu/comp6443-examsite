@@ -108,6 +108,14 @@ You will be marked by auto tests similar to each build assignment.
  
 We recommend you study how to remediate the vulnerability classes assessed in the break exam, specifically how the recommended code patterns in Python.
 
+**Exam Notifications**
+
+1. When patching the app it still has to remain functional. You shouldn't for example, stop users from posting updates just because they used special characters. Make the existing functionality safe to use - following the remediation techniques we have learnt over the semester.
+
+2. You don't have to comment your code, but it would be of help for us to see your thought pattern and the reasoning behind your code.
+
+3. If you find some part of the application which you think shouldn't exist because it is a security flaw - you can remove it so long as you provide a good argument as to why removing it would be better for the security of the site.
+
 ## Recommended Practice
 
 Revise common code patterns for Flask that introduce vulnerabilities
