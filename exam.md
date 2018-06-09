@@ -116,6 +116,8 @@ We recommend you study how to remediate the vulnerability classes assessed in th
 
 3. If you find some part of the application which you think shouldn't exist because it is a security flaw - you can remove it so long as you provide a good argument as to why removing it would be better for the security of the site.
 
+4. Do not include `venv` or any other working files in your diff submission. Only create a diff with the changes that are required to patch the vulns, otherwise your diff will be very large.
+
 ## Recommended Practice
 
 Revise common code patterns for Flask that introduce vulnerabilities
